@@ -27,28 +27,28 @@ A simple 2D game inspired by the classic Asteroids game. In this game, you contr
 
 2. **Create and activate a virtual environment (recommended)**
 
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On macOS/Linux
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate   # On macOS/Linux
 
-or
+- or
 
-```bash
-venv\Scripts\activate      # On Windows
+   ```bash
+   venv\Scripts\activate      # On Windows
 
 3. **Install the required dependencies**
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Running The Game
 
-To start the game, run:
+- To start the game, run:
 
-```bash
-python main.py
+   ```bash
+   python main.py
 
-You should see a window with a black background, a triangular spaceship at the center, and asteroids appearing on the screen.
+- You should see a window with a black background, a triangular spaceship at the center, and asteroids appearing on the screen.
 
 ## Controls
 
